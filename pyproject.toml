@@ -11,6 +11,10 @@ dependencies = [
     "flask-sqlalchemy>=3.1.1",
     "gunicorn>=23.0.0",
     "openai>=1.61.1",
-    "pytest>=8.3.4",
     "python-dotenv>=1.0.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.4",
 ]
