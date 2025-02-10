@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: paperclips
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: flask>=3.1.0
+Requires-Dist: flask-limiter>=3.10.1
+Requires-Dist: flask-migrate>=4.1.0
+Requires-Dist: flask-sqlalchemy>=3.1.1
+Requires-Dist: gunicorn>=23.0.0
+Requires-Dist: openai>=1.61.1
+Requires-Dist: python-dotenv>=1.0.1
+
+# paperclips

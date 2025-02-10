@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+paperclips/__init__.py
+paperclips/app.py
+paperclips/openai_client.py
+paperclips.egg-info/PKG-INFO
+paperclips.egg-info/SOURCES.txt
+paperclips.egg-info/dependency_links.txt
+paperclips.egg-info/requires.txt
+paperclips.egg-info/top_level.txt
+tests/test_app.py
